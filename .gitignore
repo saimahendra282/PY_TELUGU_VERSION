@@ -1,1 +1,5 @@
 .idea
+venv
+PY_TELUGU_VERSION.egg-info
+build
+dist
