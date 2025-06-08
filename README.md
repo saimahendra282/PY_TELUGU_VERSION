@@ -38,5 +38,4 @@ and tha;t all , simple ai't it? <br>
 - first if you are using notepad , the chages wont visible suddely you have to close and open file again
 - if you are using pychram editor then click ctrl + s cm often as the terminal chages are not relfecting in editor correclty and besides if you are sing vs code make sure to on autosave or just enter ctrl + s everytime
 ---
-This repo updates countinulsly , consider checking my work every week.......... <br> got any errors or suggestions , create issues i will try to resolve them 
-
+This repo updates countinulsly , consider checking my work every week.......... <br> got any errors or suggestions , create issues i will try to resolve them
