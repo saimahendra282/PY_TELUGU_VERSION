@@ -1,4 +1,10 @@
-# telugupy/__init__.py
-from .main import creater_details
+from .auto_update import eng2tel, tel2eng
+from .auto_update import _watch as watch
+from .main import run_telugu_file as run
 
-print("Welcome message -- need updations later")
+__all__ = [
+    "eng2tel",
+    "tel2eng",
+    "watch",
+    "run",
+]
